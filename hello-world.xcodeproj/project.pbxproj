@@ -51,6 +51,7 @@
 		4E40F98323F5337C005A7F68 /* hello_worldUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hello_worldUITests.swift; sourceTree = "<group>"; };
 		4E40F98523F5337C005A7F68 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4E40F99123F54EFA005A7F68 /* FizzBuzz.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FizzBuzz.swift; sourceTree = "<group>"; };
+		4E40F99523F55AF3005A7F68 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +82,7 @@
 		4E40F95523F5337A005A7F68 = {
 			isa = PBXGroup;
 			children = (
+				4E40F99523F55AF3005A7F68 /* .gitignore */,
 				4E40F96023F5337A005A7F68 /* hello-world */,
 				4E40F97723F5337C005A7F68 /* hello-worldTests */,
 				4E40F98223F5337C005A7F68 /* hello-worldUITests */,
